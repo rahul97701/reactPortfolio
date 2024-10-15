@@ -15,11 +15,11 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./facebook.png"
-								alt="facebook"
+								src="https://radixcube.com/static/images/logo.svg"
+								alt="radixcube"
 								className="work-image"
 							/>
-							<div className="work-title">Facebook</div>
+							<div className="work-title">RadixCube Solution Pvt Ltd</div>
 							<div className="work-subtitle">
 								Software Engineer
 							</div>
